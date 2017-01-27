@@ -1,0 +1,23 @@
+{
+  "name": "practice-test-cafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomoyaShibata/practice-test-cafe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomoyaShibata/practice-test-cafe/issues"
+  },
+  "homepage": "https://github.com/TomoyaShibata/practice-test-cafe#readme",
+  "devDependencies": {
+    "testcafe": "^0.12.1"
+  }
+}
